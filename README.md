@@ -1,4 +1,4 @@
-# Bank Account Management System 
+# Bank Management System 
 by `chaker necibi`
 
 This program is a simple banking system implemented in C. It provides basic functionalities such as depositing money, withdrawing money, transferring money between accounts, viewing account details, and transaction history. It also includes administrative features such as adding, deleting, and viewing accounts
